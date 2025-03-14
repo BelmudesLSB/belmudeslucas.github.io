@@ -41,15 +41,13 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Custom Styles for Moving Links to the Right */
-.visible-links {
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  width: 100%;
+/* Align the entire navigation to the right */
+.align-right {
+  margin-left: auto; /* Push the navigation to the right */
 }
 
-.nav-right {
-  margin-left: auto;
+/* Ensure the masthead container uses flexbox */
+.masthead__menu {
+  display: flex;
+  justify-content: flex-end; /* Align content to the right */
 }
