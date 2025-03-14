@@ -15,4 +15,4 @@ My interests lie at the intersection of macroeconomics and finance, with a stron
 
 ### Research
 
-[View my paper](assets/papers/test_model.pdf)
+[A model without insurance](assets/papers/test_model.pdf)
