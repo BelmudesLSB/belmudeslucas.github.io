@@ -22,7 +22,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: (assets/papers/test_model.pdf)
+    url: /assets/papers/test_model.pdf 
     class: "nav-right"
     
   #- title: "Guide"
