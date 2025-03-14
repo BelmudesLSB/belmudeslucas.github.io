@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Lucas"
+title: ":wave: Hello there, I'm Lucas!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,7 @@ After working for great economic researchers and outstanding financial practitio
 
 My interests lie at the intersection of macroeconomics and finance, with a strong passion for learning and discovering new computational techniques to apply in my research.
 
-======
-
 
 ### Research
 
-bla bla bla
+url: /assets/papers/test_model.pdf
