@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interests: Macroeconomics and Finance.
 
- I am a fourth-year Ph.D. candidate in economics at the University of Minnesota, currently working on sovereign fixed-income debt, the U.S. regional banking crisis, and their relationship with macroeconomic aggregates. I enjoy applying frontier quantitative methods, including machine learning and high-performance computing, to extract meaningful insights from economic models.
+ I am a fourth-year Ph.D. candidate in economics at the University of Minnesota, researching sovereign fixed-income debt and its relationship with macroeconomic aggregates, as well as banking and macroeconomic aggregates. I enjoy applying frontier quantitative methods, including machine learning and high-performance computing, to extract meaningful insights from economic models.
 
 My role as a research analyst at the Federal Reserve Bank of Minneapolis, along with my participation in the international trade workshop at the U of M, has deepened my understanding of monetary policy and international trade, which I try to integrate into my macroeconomic modeling.
 
