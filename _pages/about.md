@@ -15,9 +15,9 @@ My interests lie at the intersection of macroeconomics and finance, with a stron
 
 ### Research
 
-[Domestic vs. Foreign Law:
-Portfolio Dynamics of Sovereign Debt, with Angelo Mendes](assets/papers/domestic_vs_foreign.pdf)
+[*Domestic vs. Foreign Law:
+Portfolio Dynamics of Sovereign Debt*, with Angelo Mendes](assets/papers/domestic_vs_foreign.pdf)
 
-[Transparency in Debt Crisis, with Angelo Mendes](assets/papers/transparency_in_debt_crisis.pdf)
+[*Transparency in Debt Crisis*, with Angelo Mendes](assets/papers/transparency_in_debt_crisis.pdf)
 
-[COVID-19 Recession in Historical Perspective](https://www.stlouisfed.org/on-the-economy/2020/november/covid19-recession-historical-perspective)
+[*COVID-19 Recession in Historical Perspective*, with Paulina Restrepo-Echavarría and Pablo Andrés Neumeyer](https://www.stlouisfed.org/on-the-economy/2020/november/covid19-recession-historical-perspective)
