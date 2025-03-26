@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-## About Me:
+# About Me:
 After working for great economic researchers and outstanding financial practitioners, I became thrilled by the power of Economics in Data Analysis and Decision-making. I am passionate about using quantitative analysis to understand more about fixed-income securities.
 
 My interests lie at the intersection of macroeconomics and finance, with a strong passion for learning and discovering new computational techniques to apply in my research.
 
 
-## Research:
+# Research:
 
 [*Domestic vs. Foreign Law:
 Portfolio Dynamics of Sovereign Debt*, with Angelo Mendes](assets/papers/domestic_vs_foreign.pdf)
