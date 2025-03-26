@@ -19,3 +19,5 @@ My interests lie at the intersection of macroeconomics and finance, with a stron
 Portfolio Dynamics of Sovereign Debt, with Angelo Mendes](assets/papers/domestic_vs_foreign.pdf)
 
 [Transparency in Debt Crisis, with Angelo Mendes](assets/papers/transparency_in_debt_crisis.pdf)
+
+[COVID-19 Recession in Historical Perspective](https://www.stlouisfed.org/on-the-economy/2020/november/covid19-recession-historical-perspective)
