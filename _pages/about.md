@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## About Me:
-After working for great economic researchers and outstanding financial practitioners, I became thrilled by the power of Economics in Data Analysis and Decision-making. I am passionate about using quantitative analysis to understand more about fixed-income securities.
+I am a fourth-year Ph.D. candidate in economics at the University of Minnesota, researching sovereign debt, the U.S. banking system, and international macroeconomics. I enjoy applying frontier quantitative methods, including machine learning and high-performance computing, to extract insights from economic models.
 
-My interests lie at the intersection of macroeconomics and finance, with a strong passion for learning and discovering new computational techniques to apply in my research.
+My role as a research analyst at the Federal Reserve Bank of Minneapolis, along with my participation in the international trade workshop at the U of M, has deepened my understanding of monetary policy and international trade, which I try to integrate into my macroeconomic modeling.
 
 
 ## Research:
