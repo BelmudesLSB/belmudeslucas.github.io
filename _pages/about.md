@@ -15,4 +15,7 @@ My interests lie at the intersection of macroeconomics and finance, with a stron
 
 ### Research
 
-[A model without insurance](assets/papers/test_model.pdf)
+[Domestic vs. Foreign Law:
+Portfolio Dynamics of Sovereign Debt, with Angelo Mendes](assets/papers/domestic_vs_foreign.pdf)
+
+[Transparency in Debt Crisis, with Angelo Mendes](assets/papers/transparency_in_debt_crisis.pdf)
